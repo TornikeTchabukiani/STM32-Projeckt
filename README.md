@@ -1,1 +1,1 @@
-This frimware is for STM32F103C8T6 MCU. MCU reads data from 4 16 bit ADC's(ADS1115) via I2C interface. Than sends all data via uart to the display. Also it can be controll 8 relay using data, which is recived from display via UART.
+This firmware is for the STM32F103C8T6 MCU. The MCU reads data from four 16-bit ADC's (ADS1115) via an I2C interface. Then it sends all the data via UART to the display. Also, it can control 8-relay using data that is received from the display via UART.
